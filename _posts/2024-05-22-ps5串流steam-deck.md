@@ -1,7 +1,7 @@
 ---
 share: true
 category: entertainment
-title: 2024-05-22-ps5串流steam-deck
+file_name: 2024-05-22-ps5串流steam-deck
 ---
 
 ## chiaki4deck
