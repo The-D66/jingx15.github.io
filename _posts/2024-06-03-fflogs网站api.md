@@ -63,6 +63,7 @@ host: www.fflogs.com
 
 根据用户名获取绝本相关数据的一个demo，从中可以看到api有速率限制，达到限制后会返回429状态码：
 
+{% raw %}
 ```python
 def fetch_graphql_data(
     character_name, group_name, client, start_time=start_time
@@ -122,4 +123,4 @@ def fetch_graphql_data(
 
   return response.json(), client, start_time
 ```
-
+{% endraw %}
