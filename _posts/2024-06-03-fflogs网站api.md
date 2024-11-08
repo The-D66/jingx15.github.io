@@ -1,19 +1,19 @@
----  
-tags:  
-  - note  
-  - literature  
-  - game  
-  - ffxiv  
-  - ff14  
-optional_tags:   
-alias:   
-duetime:   
-created: 2024-06-03  
-completion:   
-share: true  
-category: entertainment  
-file_name: 2024-06-03-fflogs网站api  
----  
+---
+tags:
+  - note
+  - literature
+  - game
+  - ffxiv
+  - ff14
+optional_tags: 
+alias: 
+duetime: 
+created: 2024-06-03
+completion: 
+share: true
+category: entertainment
+file_name: 2024-06-03-fflogs网站api
+---
   
 fflogs第二版api采用了 GraphQL API，功能较为强大，其具体的api文档可以在这里找到：  
 ```cardlink  
@@ -124,3 +124,4 @@ def fetch_graphql_data(
   return response.json(), client, start_time  
 ```  
 {% endraw %}  
+  
