@@ -1,8 +1,8 @@
----  
-share: true  
-category: entertainment  
-file_name: 2024-05-22-ps5串流steam-deck  
----  
+---
+share: true
+category: entertainment
+file_name: 2024-05-22-ps5串流steam-deck
+---
   
 ## chiaki4deck  
   
@@ -19,4 +19,5 @@ image: https://opengraph.githubassets.com/445575dc3f7bd5bbd10a63373486d2ec99baf1
 ### 安装  
   
 在桌面模式的Discover中搜索`chiaki4deck`并安装  
+  
   
